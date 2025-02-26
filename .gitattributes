@@ -1,0 +1,11 @@
+frontend/* linguist-detectable=true
+backend/* linguist-detectable=true
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.css linguist-detectable=true
+*.scss linguist-detectable=true
+*.html linguist-detectable=true
+*.json linguist-detectable=true
+*.md linguist-documentation
