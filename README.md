@@ -37,4 +37,4 @@ Planned future improvements include a real-time notification system, enhanced qu
 Clone the repository:  
 
 ```bash
-git clone https://github.com/tera-github-username/PrepAI.git
+git clone https://github.com/Parul-Byte/PrepAI.git
