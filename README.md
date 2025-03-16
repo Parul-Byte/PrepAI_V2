@@ -1,4 +1,4 @@
-# PrepAI 🎓🧑‍💻  
+# Interview.io 🎓🧑‍💻  
 
 The project *"AI-Powered Real-Time Interview Coach"* is an innovative virtual platform designed to help users improve their interview skills through a range of interactive and AI-driven features.  
 
